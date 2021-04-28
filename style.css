@@ -1,0 +1,81 @@
+body{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 300px;
+    background-color: #283655;
+}
+#curlst1{
+    margin-top: 10px;
+    width: 100px;
+    text-align-last: center;
+    padding: 10px;
+    border: 0;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.432);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#curlst2{
+    width: 100px;
+    text-align-last: center;
+    padding: 10px;
+    border: 0;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.432);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+input[type="number"]{
+    margin-top: 10px;
+    padding: 10px;
+    border: 0;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.432);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+input[type="submit"]{
+    margin-top: 10px;
+    padding: 10px;
+    border: 0;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.432);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#curCount{
+    width: 120px;
+    margin-top: 5px;
+    text-align: center;
+    padding: 10px;
+    border: 0;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.432);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#curDone{
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+    border: 0;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.432);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#doubleArrow{
+    position: absolute;
+    margin-left: 50px;
+}
+fieldset{
+    border-radius: 10px;
+    background-color: #4d648d;
+}
+legend{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.summa{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
